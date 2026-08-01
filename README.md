@@ -1,6 +1,5 @@
-# 🧠 Universal Document AI - Data Extractor (Category 2)
+# 🧠 Universal Document AI - Data Extractor 
 
-**AI Challenge - Junior AI Research Associate Submission**
 
 ## 📌 One-Sentence Overview
 My agent takes messy financial documents (receipts, invoices) or handwritten notes and produces validated, structured JSON financial data or clean text summaries with extracted action items.
