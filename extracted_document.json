@@ -1,0 +1,12 @@
+{
+  "document_id": null,
+  "date": null,
+  "line_items": [],
+  "subtotal": 0.0,
+  "tax": 0.0,
+  "total_amount": 0.0,
+  "validation_flags": [
+    "Date is missing."
+  ],
+  "is_valid": false
+}

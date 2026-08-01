@@ -1,0 +1,42 @@
+{
+  "detected_type": "financial",
+  "notes_data": null,
+  "financial_data": {
+    "document_id": "1304",
+    "date": "2024-04-24",
+    "currency": "\u20b9",
+    "line_items": [
+      {
+        "description": "Panseer Butter Masala",
+        "quantity": 1,
+        "unit_price": 180.0,
+        "total_price": 180.0
+      },
+      {
+        "description": "Veg Biryani",
+        "quantity": 1,
+        "unit_price": 150.0,
+        "total_price": 150.0
+      },
+      {
+        "description": "Tandoori Roti",
+        "quantity": 3,
+        "unit_price": 20.0,
+        "total_price": 60.0
+      },
+      {
+        "description": "Gulab Jamun",
+        "quantity": 2,
+        "unit_price": 100.0,
+        "total_price": 100.0
+      }
+    ],
+    "subtotal": 490.0,
+    "tax": 24.5,
+    "total_amount": 514.5,
+    "validation_flags": [
+      "Line item math error: 2.0 x 100.0 != 100.0"
+    ],
+    "is_valid": false
+  }
+}
